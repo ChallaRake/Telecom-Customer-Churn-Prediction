@@ -30,6 +30,8 @@ The project demonstrates **end-to-end ML lifecycle**:
 <img width="1919" height="1094" alt="Screenshot 2025-09-18 120831" src="https://github.com/user-attachments/assets/1e53b421-046a-4ffb-becb-eed772bb5f9d" />
 <img width="1919" height="1097" alt="Screenshot 2025-09-18 120848" src="https://github.com/user-attachments/assets/6d02ee00-d504-47d4-ab76-38803c905455" />
 
+## For Streamlit Application
+<img width="1318" height="1714" alt="Untitled" src="https://github.com/user-attachments/assets/bdf8225c-15b4-41f7-8ff7-feae2adb22eb" />
 
 
 
